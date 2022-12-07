@@ -1,4 +1,4 @@
-## Hi, I'm Yulia. 
+## Hi, I'm Yulia 💻. 
 I studied Web Development at  coding bootcam [Le Wagon](https://www.lewagon.com/tokyo).
 
 ## 
